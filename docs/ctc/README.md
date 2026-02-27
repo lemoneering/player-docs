@@ -5,3 +5,5 @@ This is the chip that will be handling the 24-bit matrix that makes up the gestu
 It's actual function is intended to be a mixture between how navigation works on a Blackberry CT keyboard.
 
 The touchpad is a design we're making ourselves, not a part that we are purchasing to use as is.
+
+![mockup of the touch-capacitive pad](./images/20260226_182856.jpg)
